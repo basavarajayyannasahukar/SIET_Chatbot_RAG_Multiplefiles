@@ -1,10 +1,11 @@
 import streamlit as st
 from rag_engine import load_base, ask_rag
+
 st.set_page_config(page_title = "SIET_Chatbot", layout = "centered")
-st.title("Shridevi Institute of Engineering and Technology - Chatbot")
-st.caption("Ask anything about the college information...")
-st.caption("RAG pipleline with Mulitple files")
-st.caption("created by basavaraj")
+st.title("SIET Chatbot")
+st.caption("Hanamantraya")
+st.caption("Ask anythimg about the college information...")
+st.caption("RAG Pipeline with Multiple files")
 
 mykey = st.secrets["GROQ_API_KEY"]
 
