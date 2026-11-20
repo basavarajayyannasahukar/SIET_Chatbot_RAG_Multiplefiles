@@ -3,7 +3,7 @@ from rag_engine import load_base, ask_rag
 
 st.set_page_config(page_title = "SIET_Chatbot", layout = "centered")
 st.title("SIET Chatbot")
-st.caption("Hanamantraya")
+st.caption("Basavaraj")
 st.caption("Ask anythimg about the college information...")
 st.caption("RAG Pipeline with Multiple files")
 
