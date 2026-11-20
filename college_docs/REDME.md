@@ -1,1 +1,1 @@
-this file content all the 
+This folder the content all college files
